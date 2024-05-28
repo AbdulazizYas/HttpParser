@@ -1,0 +1,16 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "Implementation of HTTP 1.1 Protocol ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "protocol",
+    "implementation"
+  ],
+  "author": "abdulazizyas",
+  "license": "ISC"
+}
